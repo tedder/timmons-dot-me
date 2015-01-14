@@ -11,7 +11,7 @@
   </style>
 <body>
 
-Please see my CV: <a href="tamara-timmons-cv.html">Tamara Timmons CV</a>
+Please see my CV: <a href="tamara-timmons-cv.html">Tamara Timmons curriculum vitae</a>
 
 
 </body>

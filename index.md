@@ -22,7 +22,7 @@
 - [Ted Timmons on LinkedIn]()
 - [email: ted@timmons.me](mailto:ted@timmons.me)
 ### Tamara Timmons
-- [Tamara Timmons CV](http://timmons.me/tamara/tamara-timmons-cv.html)
+- [Tamara Timmons curriculum vitae](http://timmons.me/tamara/tamara-timmons-cv.html)
 - [Tamara Timmons on LinkedIn](https://www.linkedin.com/in/drtamaratimmons)
 - [email: tamara@timmons.me](mailto:tamara@timmons.me)
 ### Tim Timmons

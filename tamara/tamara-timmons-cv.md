@@ -3,7 +3,7 @@
   <meta charset="utf-8" />
   <meta http-equiv="Content-Language" content="en" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <title>Stanson Health: clinical decision support designed to reduce costs</title>
+  <title>Tamara Timmons, M.D. curriculum vitae</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
   <style type="text/css">
