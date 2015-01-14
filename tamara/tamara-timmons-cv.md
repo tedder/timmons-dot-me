@@ -11,8 +11,10 @@
   </style>
 <body>
 
+<img src="tamara-timmons-photo.jpg" align="right" border=0 alt="Tamara Timmons photo" width="200" />
+
 # Tamara Timmons, M.D.
-Portland, Oregon |  213-256-4001  |  tamara@timmons.me
+Portland, Oregon |  [tamara@timmons.me](mailto:tamara@timmons.me)
  
  
 ## Education
