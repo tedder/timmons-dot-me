@@ -19,7 +19,7 @@
 - [Ted Timmons's blog](http://infinitewandering.blogspot.com/)
 - [Ted Timmons on twitter (@tedder42)](http://twitter.com/tedder42)
 - [Ted Timmons's website, perljam.net](http://perljam.net/)
-- [Ted Timmons on LinkedIn]()
+- [Ted Timmons on LinkedIn](https://www.linkedin.com/in/timmonsted)
 - [email: ted@timmons.me](mailto:ted@timmons.me)
 ### Tamara Timmons
 - [Tamara Timmons curriculum vitae](http://timmons.me/tamara/tamara-timmons-cv.html)
