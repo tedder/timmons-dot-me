@@ -9,6 +9,7 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
   <style type="text/css">
     body { margin: 2em }
+    A { margin-top: 0.3em; margin-bottom: 0.3em; display:inline-flex }
   </style>
 <body>
 
@@ -28,6 +29,7 @@
 ### Tim Timmons
 - [Tim Timmons on LinkedIn](https://www.linkedin.com/pub/tim-timmons/5b/91a/2b2)
 ## Fred Timmons
+- [The Steel Yard](http://thesteelyardinc.net/)
 ## Linda Timmons
 ## Donna Timmons
 
